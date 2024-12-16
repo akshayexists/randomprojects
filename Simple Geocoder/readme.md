@@ -17,7 +17,7 @@ This is a simple Flask app that turns addresses into coordinates. I wrote the ac
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/akshayexists/randomprojects
    ```
 
 2. Install dependencies:
@@ -25,6 +25,9 @@ This is a simple Flask app that turns addresses into coordinates. I wrote the ac
    ```bash
    pip install -r requirements.txt
    ```
+OR
+If you're like me and too lazy to deal with the entire bash terminal and stuff, just download this branch https://github.com/akshayexists/randomprojects/tree/main/Simple%20Geocoder :)
+
 
 3. Run the app:
 
